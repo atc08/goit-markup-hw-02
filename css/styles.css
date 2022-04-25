@@ -135,7 +135,8 @@ header .contacts-list--item {
   background-color: var(--main-background-color);
 }
 
-footer .contacts-list--item {
+footer .contacts-list--item,
+footer .logo-link {
   color: var(--color-light);
 }
 
